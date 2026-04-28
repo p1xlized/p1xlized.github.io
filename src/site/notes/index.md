@@ -11,10 +11,9 @@ This is a collection of my thoughts, active projects, and technical deep-dives. 
 
 ## 🛠️ Devlogs
 *Tracking the progress of my latest builds and experiments.*
+### 👾 Ion Game Engine
+- [[Game Engine/(devlog_01) - Why? How? and what's next.\|(devlog_01) - Why? How? and what's next.]] – Why  
 
-- [[devlog-001\|devlog-001]] – Initializing the garden and custom subdomains.
-- [[project-alpha\|project-alpha]] – Building a new CLI tool for productivity.
-- [[server-migration\|server-migration]] – Why I moved from Netlify to GitHub Pages.
 
 ## 🧠 Thoughts
 *Raw ideas, mental models, and things I'm currently pondering.*
