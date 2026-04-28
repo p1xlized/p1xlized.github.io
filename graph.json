@@ -1,1 +1,1 @@
-{"homeAlias":"/","nodes":{},"links":[]}
+{"homeAlias":"/","nodes":{"/home/":{"id":0,"title":"Main Page","url":"/home/","group":"none","home":false,"outBound":["devlog-001","project-alpha","server-migration","the-art-of-iteration","obsidian-workflow","minimalism-in-ui"],"neighbors":[],"backLinks":[],"noteIcon":"","hide":false,"size":0}},"links":[]}
