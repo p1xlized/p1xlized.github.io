@@ -1,9 +1,17 @@
 [
 {
+		"title": "(devlog_01) - Why? How? and what's next.",
+		"date":"Tue Apr 28 2026 16:07:36 GMT+0000 (Coordinated Universal Time)",
+		"url":"/game-engine/devlog-01-why-how-and-what-s-next/",
+		"content": "Intro\nWe’ve all felt it: that creeping realization that you can’t spend a 40-year career just moving data from a database to a UI. It felt repetitive and without any future prospects. Basically, I hit a crossroads. I didn't want easy &amp; predictable anymore; I wanted hard. I wanted to find the kind of work that's unique, technically demanding, and pushes my potential past to my absolute limits.\nWhy I chose a game engine\nI'm a huge gamer and making something in gamedev was obvious. In fact I've been yerning to create a game for almost 4 years. But why a game engine?",
+		"tags": [ "note"]
+},
+
+{
 		"title": "notes",
-		"date":"Tue Apr 28 2026 15:00:13 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 28 2026 16:07:36 GMT+0000 (Coordinated Universal Time)",
 		"url":"/index/",
-		"content": "🪴 Welcome to my Digital Garden\nThis is a collection of my thoughts, active projects, and technical deep-dives. Unlike a traditional blog, this space is &quot;living&quot;—notes here grow from seeds to evergreens as I learn more.\n\n🛠️ Devlogs\nTracking the progress of my latest builds and experiments.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">devlog-001</a> – Initializing the garden and custom subdomains.\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">project-alpha</a> – Building a new CLI tool for productivity.\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">server-migration</a> – Why I moved from Netlify to GitHub Pages.\n\n🧠 Thoughts\nRaw ideas, mental models, and things I'm currently pondering.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Nix OS - My experience</a> – Why shipping fast beats shipping perfect.\n\n🔗 Find Me Online\n\nPlatform\nLink\n\nGitHub\nhttps://github.com/p1xlized\n\nPortfolio\npixlized.net\n\nEmail\ncontact-me@pixlized.net",
+		"content": "🪴 Welcome to my Digital Garden\nThis is a collection of my thoughts, active projects, and technical deep-dives. Unlike a traditional blog, this space is &quot;living&quot;—notes here grow from seeds to evergreens as I learn more.\n\n🛠️ Devlogs\nTracking the progress of my latest builds and experiments.\n👾 Ion Game Engine\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/game-engine/devlog-01-why-how-and-what-s-next/\">(devlog_01) - Why? How? and what's next.</a> – Why\n\n🧠 Thoughts\nRaw ideas, mental models, and things I'm currently pondering.\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Nix OS - My experience</a> – Why shipping fast beats shipping perfect.\n\n🔗 Find Me Online\n\nPlatform\nLink\n\nGitHub\nhttps://github.com/p1xlized\n\nPortfolio\npixlized.net\n\nEmail\ncontact-me@pixlized.net",
 		"tags": [ "note"]
 }
 ]
