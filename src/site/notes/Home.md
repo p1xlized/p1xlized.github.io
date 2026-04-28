@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Main Page","dg-note-properties":{"title":"Main Page"}}
+{"dg-publish":true,"permalink":"/home/","dgHomeLink":"true","dg-note-properties":{}}
 ---
 
 
@@ -16,12 +16,11 @@ This is a collection of my thoughts, active projects, and technical deep-dives. 
 - [[project-alpha\|project-alpha]] – Building a new CLI tool for productivity.
 - [[server-migration\|server-migration]] – Why I moved from Netlify to GitHub Pages.
 
-## 🧠 Digital Garden (Thoughts)
+## 🧠 Thoughts
 *Raw ideas, mental models, and things I'm currently pondering.*
 
-- [[the-art-of-iteration\|the-art-of-iteration]] – Why shipping fast beats shipping perfect.
-- [[obsidian-workflow\|obsidian-workflow]] – How I organize my brain with Markdown.
-- [[minimalism-in-ui\|minimalism-in-ui]] – Thoughts on modern web design.
+- [[Nix OS - My experience\|Nix OS - My experience]] – Why shipping fast beats shipping perfect.
+
 
 ---
 
