@@ -3,12 +3,17 @@
     
         <url>
             <loc>/404.html</loc>
-            <lastmod>2026-04-28T13:57:22.714Z</lastmod>
+            <lastmod>2026-04-28T14:59:46.439Z</lastmod>
         </url>
     
         <url>
             <loc>/home/</loc>
-            <lastmod>2026-04-28T13:57:22.716Z</lastmod>
+            <lastmod>2026-04-28T14:59:46.441Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/index/</loc>
+            <lastmod>2026-04-28T14:59:46.441Z</lastmod>
         </url>
     
 </urlset>
