@@ -7,3 +7,6 @@ We’ve all felt it: that creeping realization that you can’t spend a 40-year 
 
 ### Why I chose a game engine
 I'm a huge gamer and making something in gamedev was obvious. In fact I've been yerning to create a game for almost **4 years**. But why a game engine? 
+
+
+[[Game Engine/Game Engine Architecture.canvas\|Game Engine Architecture.canvas]]
